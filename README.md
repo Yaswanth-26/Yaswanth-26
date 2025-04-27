@@ -30,6 +30,4 @@ A passionate Data Science professional specializing in visualization, machine le
 </p>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvcounter.php?username=Yaswanth-26" alt="Profile views" />
-</p>
+![Profile Views](https://komarev.com/ghpvcounter.php?username=Yaswanth-26)
