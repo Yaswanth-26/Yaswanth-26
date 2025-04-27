@@ -13,6 +13,6 @@ A passionate Data Science professional specializing in visualization, machine le
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/yaswanth-nalamalapu]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/yaswanth-nalamalapu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <!-- Add other social platforms you use -->
 </p>
