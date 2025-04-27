@@ -24,11 +24,11 @@
 
 ## My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth-26&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanth-26&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yaswanth-26&show_icons=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yaswanth-26&theme=transparent" alt="GitHub Streak" width="48%" />
 </p>
 
 ## Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-26&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-26&layout=compact&theme=transparent" alt="Top Languages" width="60%" />
 </p>
