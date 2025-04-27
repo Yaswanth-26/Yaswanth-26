@@ -28,6 +28,3 @@ A passionate Data Science professional specializing in visualization, machine le
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-26&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
-![Profile Views](https://komarev.com/ghpvcounter.php?username=Yaswanth-26)
