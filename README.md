@@ -30,5 +30,5 @@
 
 ## Most Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-26&layout=compact&theme=transparent" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaswanth-26&layout=compact&theme=transparent" alt="Top Languages" width="40%" />
 </p>
