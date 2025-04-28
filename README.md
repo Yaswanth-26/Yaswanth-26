@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaswanth-26&label=Profile%20views&color=0e75b6&style=flat" alt="yaswanth-26" /> </p>
 
-- 🔭 I’m currently working on **NLP based Project**
+- 🔭 I’m currently working on **Multi-Agent LLM's**
 
-- 🌱 I’m currently learning **learning Advanced Deep Learning and MLOps**
+- 🌱 I’m currently **learning Advanced Deep Learning and MLOps**
 
 - 👯 I’m looking to collaborate on **Data Science and ML Projects**
 
